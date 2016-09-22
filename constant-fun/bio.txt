@@ -1,0 +1,6 @@
+    Dietmar Kühl is a senior software developer at Bloomberg L.P. working
+    on the data distrubtion environment used both internally and by
+    enterprise installations at clients. In the past, he has done mainly
+    consulting for software projects in the finance area. He is a regular
+    attendee of the ANSI/ISO C++ standards committee and a moderator
+    of the newsgroup comp.lang.c++.moderated.
